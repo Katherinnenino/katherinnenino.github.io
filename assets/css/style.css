@@ -1,0 +1,44 @@
+/* vamos en orden general */
+* {
+    margin: 0px;
+    padding: 0px;
+    background-color: gray;
+    color: aliceblue;
+    font-family: 'Sigmar', cursive;
+    font-family: 'Ysabeau', sans-serif;
+
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* vamos en orden navbar */
+/* vamos en orden # carrusel*/
+/* vamos en orden quienes somos*/
+/* vamos en orden cartas*/
+#destacados h1 {
+    text-align: center;
+}
+
+/* vamos en orden contacto*/
+#contacto h1 {
+    text-align: center;
+}
+
+/* vamos en orden footer*/
+
+#pie h2 {
+    text-align: center;
+    background-color: aqua;
+}
+
+.iconos {
+    text-align: center;
+    background-color: aqua;
+
+}
+
+i {
+    width: 80px;
+}
