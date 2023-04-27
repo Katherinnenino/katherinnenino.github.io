@@ -20,6 +20,16 @@
 }
 
 /* vamos en orden cartas*/
+#destacados img {
+
+    height: 18rem;
+    
+    width: 18rem;
+    
+    object-fit: cover;
+    
+    }
+    
 #destacados h1 {
     text-align: center;
     padding: 50px;
